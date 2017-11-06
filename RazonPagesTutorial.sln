@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazonPagesTutorial", "RazonPagesTutorial\RazonPagesTutorial.csproj", "{7C2522A8-5080-42D4-AFF7-B2FE1F153E3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorPagesContacts", "RazorPagesContacts\RazorPagesContacts.csproj", "{F0283D8F-9C10-4B5E-8EFA-C5AE0B84284A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7C2522A8-5080-42D4-AFF7-B2FE1F153E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C2522A8-5080-42D4-AFF7-B2FE1F153E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C2522A8-5080-42D4-AFF7-B2FE1F153E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0283D8F-9C10-4B5E-8EFA-C5AE0B84284A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0283D8F-9C10-4B5E-8EFA-C5AE0B84284A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0283D8F-9C10-4B5E-8EFA-C5AE0B84284A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0283D8F-9C10-4B5E-8EFA-C5AE0B84284A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
